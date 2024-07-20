@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua",
+  "node.version": "v20.15.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "frontendFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/./src/main/frontend",
+  "connect.javaSourceFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/src/main/java",
+  "javaResourceFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/src/main/resources",
+  "connect.applicationProperties": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/src/main/resources/application.properties",
+  "connect.openApiFile": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/generated-resources/openapi.json",
+  "project.frontend.generated": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/./src/main/frontend/generated",
+  "pnpm.enable": false,
+  "bun.enable": false,
+  "require.home.node": false,
+  "build.folder": "build",
+  "react.enable": true
+}

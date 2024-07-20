@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/dev-bundle/config",
+  "jarResourcesFolder": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/Users/nhuthuynh/workspace/vaadin/minhhieu-aqua/build/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
